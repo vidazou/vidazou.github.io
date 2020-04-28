@@ -1,9 +1,7 @@
 ## Hi, I'm Vida. Thanks for checking out my page!
-I'm a fourth year Aerospace Engineering student at Rensselaer Polytechnic Institute.
+I'm a fourth year Aerospace Engineering student at Rensselaer Polytechnic Institute. I am currently on a co-op at Northrop Grumman using additive manufacturing technologies alongside mechanical design in NX to assist development of launch vehicles such as the OmegA and Antares rocket. I will be taking the following classes Fall 2020:
 
-I am currently on a co-op at Northrop Grumman using additive manufacturing technologies alongside mechanical design in NX to assist development of launch vehicles such as the OmegA and Antares rocket. I will be taking the following classes Fall 2020:
-
-<ul>
+<ul type="circle">
   <li>Space Vehicle Design</li>
   <li>Fluid Dynamics Lab</li>
   <li>Boundary Layers & Heat Transfer</li>
